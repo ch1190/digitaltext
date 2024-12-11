@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <table rows="4" cols="4">
+            <head>Die Perge</head>
+            <row>
+               <cell>zway</cell>
+            </row>
+            <row>
+               <cell>Ob der geselle gut</cell>
+            </row>
+            <row>
+               <cell>zway</cell>
+            </row>
+            <row>
+               <cell><hi rend="red">Syn</hi>oy</cell>
+            </row>
+            <row>
+               <cell>Du hast 2 ougen geworffen ob der gesell</cell>
+               <cell>oder fründ güt sey oder nit so ge an dy</cell>
+               <cell>andern zeil zu dem kunig von Cecylien</cell>
+            </row>
+            <row>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+            </row>
+            <row>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+            </row>
+         </table>
+      </body>
+  </text>
+</TEI>
